@@ -638,6 +638,13 @@
       "skillPath": "guides/social/twitter-thread-creation/SKILL.md",
       "computedHash": "3ff58d96fa7d53c99f4c7f1dbcd8459e51c39369444dab207c45498f361caaa8"
     },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "bde080f4c6d546fea1313bff76960c99045b2ae7",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "computedHash": "f583fab0f9bfd86aad1baede1c4f6719d70d0b007398b5cbbd2a75936ffcecd1"
+    },
     "video-ad-specs": {
       "source": "rajabovjakhongir7-stack/skills",
       "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
