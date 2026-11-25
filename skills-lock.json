@@ -155,12 +155,26 @@
       "skillPath": "guides/design/book-cover-design/SKILL.md",
       "computedHash": "ada7d36bfd3bb0e7f5931a32f5a91f43d0772b7486ca41a6c1538a2bfb6e3e36"
     },
+    "brand": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "bde080f4c6d546fea1313bff76960c99045b2ae7",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/brand/SKILL.md",
+      "computedHash": "d5619310b76bd204efd2f8b3832f72b5a2899712be0ab94d1b4b671271419c54"
+    },
     "building-inferencesh-apps": {
       "source": "rajabovjakhongir7-stack/skills",
       "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
       "sourceType": "github",
       "skillPath": "sdk/building-apps/SKILL.md",
       "computedHash": "d911adf9040956c563394cf3b193651e0630aa663668a8e8e47799ffd6d589db"
+    },
+    "canvas-design": {
+      "source": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "sourceType": "github",
+      "skillPath": "skills/canvas-design/SKILL.md",
+      "computedHash": "1866477474e694f562261008bb6a817e53f027b6347b062fbd1e2ee2eb83f20d"
     },
     "case-study-writing": {
       "source": "rajabovjakhongir7-stack/skills",
@@ -217,6 +231,20 @@
       "sourceType": "github",
       "skillPath": "guides/design/data-visualization/SKILL.md",
       "computedHash": "1f5122581be7fde874460ee0a5185fd01a07066e2df982163a1d91f21263fa64"
+    },
+    "design": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "bde080f4c6d546fea1313bff76960c99045b2ae7",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design/SKILL.md",
+      "computedHash": "da1c68168b9619307d517ab836215d8a6ef249b0da096078769629eeaebb3f7a"
+    },
+    "design-system": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "bde080f4c6d546fea1313bff76960c99045b2ae7",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/design-system/SKILL.md",
+      "computedHash": "9efdc106c73d8d298b5a90d55c56995840a37f754fb9d498d14e6562bdaadc23"
     },
     "dialogue-audio": {
       "source": "rajabovjakhongir7-stack/skills",
@@ -301,6 +329,13 @@
       "sourceType": "github",
       "skillPath": "tools/image/flux-image/SKILL.md",
       "computedHash": "48250f53dbe48df64910fbc483ed86fdfde55fe6a366374f5e5f99573672a55b"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "sourceType": "github",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "computedHash": "83485963700bcf11d5bf78118facb301676b69d918fee2e45a95e7f1a2840f6c"
     },
     "gemini": {
       "source": "rajabovjakhongir7-stack/skills",
@@ -617,6 +652,13 @@
       "skillPath": "tools/audio/text-to-speech/SKILL.md",
       "computedHash": "df33772b88d9d8a3a763b2eda09face2bda4c8d784824adfc3052f76723af246"
     },
+    "theme-factory": {
+      "source": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "sourceType": "github",
+      "skillPath": "skills/theme-factory/SKILL.md",
+      "computedHash": "f426a07c06316201360be19324f2689c5bd3ab2d1669848c9383c321efa4386f"
+    },
     "tools-ui": {
       "source": "rajabovjakhongir7-stack/skills",
       "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
@@ -638,12 +680,33 @@
       "skillPath": "guides/social/twitter-thread-creation/SKILL.md",
       "computedHash": "3ff58d96fa7d53c99f4c7f1dbcd8459e51c39369444dab207c45498f361caaa8"
     },
+    "ui-styling": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "commit": "bde080f4c6d546fea1313bff76960c99045b2ae7",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/ui-styling/SKILL.md",
+      "computedHash": "38b45ce4f84d3711ec6a050361e0b8ba19b9b14b0c0f351b207d88c1e820c922"
+    },
     "ui-ux-pro-max": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "commit": "bde080f4c6d546fea1313bff76960c99045b2ae7",
       "sourceType": "github",
       "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
       "computedHash": "f583fab0f9bfd86aad1baede1c4f6719d70d0b007398b5cbbd2a75936ffcecd1"
+    },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "commit": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sourceType": "github",
+      "skillPath": "skills/composition-patterns/SKILL.md",
+      "computedHash": "f711ed8b16162eaa712abbcdbbae6c926f86c57e60127735fecc3ad0dd85b3fa"
+    },
+    "vercel-react-view-transitions": {
+      "source": "vercel-labs/agent-skills",
+      "commit": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sourceType": "github",
+      "skillPath": "skills/react-view-transitions/SKILL.md",
+      "computedHash": "d5bdffc1f132ae0d6d9260c260ae206d48cd83cb148e3e3b75fc1a3b94b249fa"
     },
     "video-ad-specs": {
       "source": "rajabovjakhongir7-stack/skills",
@@ -665,6 +728,20 @@
       "sourceType": "github",
       "skillPath": "guides/prompting/video-prompting-guide/SKILL.md",
       "computedHash": "b12b97589d8f7ff1bea8da8098d423aa5a875f498c9451c18437d7473a3e496f"
+    },
+    "web-artifacts-builder": {
+      "source": "anthropics/skills",
+      "commit": "e4bb5d960d87126ff3b3a8af1a104b7db67560ba",
+      "sourceType": "github",
+      "skillPath": "skills/web-artifacts-builder/SKILL.md",
+      "computedHash": "7a081b86fd5068d3ca2c4d9c059956634feff65ccbf1c39c3d34a6e5d0971139"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "commit": "5a37a6329fbad3666c3207392a6a7c0110e92efb",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "5994e4cfd86144903d2ba750f862b9e36af15e3297aac983679e347b99f6cb71"
     },
     "web-search": {
       "source": "rajabovjakhongir7-stack/skills",
