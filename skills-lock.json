@@ -1,0 +1,684 @@
+{
+  "version": 2,
+  "skills": {
+    "academic-research": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/llm/academic-research/SKILL.md",
+      "computedHash": "dfdfac97b85745fe4d15475fc8b04c6246605a84f488785e1547f604a616df19"
+    },
+    "affirmations": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/agent/affirmations/SKILL.md",
+      "computedHash": "323986afdc346f44cb1ba0592f883ee0917ce6a863d56088d3da46419d6a9042"
+    },
+    "agent-browser": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/utilities/agent-browser/SKILL.md",
+      "computedHash": "5c72a5b70201e9ef1be7a7ff84915e2c988936925a91b8341579d43a79f72430"
+    },
+    "agent-tools": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/agent-tools/SKILL.md",
+      "computedHash": "d0c4ba647f8daf25dd7b28db63122cfb2abd20aef559c5cff8fdc01fb93ae684"
+    },
+    "agent-ui": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "ui/agent-ui/SKILL.md",
+      "computedHash": "2de3e73d7d77fecaa4cbba3367d996dd0abfe6c89564066c5e285aef635949e5"
+    },
+    "ai-3d-generation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/3d/ai-3d-generation/SKILL.md",
+      "computedHash": "8266b96695d478b0670c2afc161ecae7ae654af99afc89fc490ba11c0fb1659b"
+    },
+    "ai-automation-workflows": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/content/ai-automation-workflows/SKILL.md",
+      "computedHash": "8f82608d222eefefa02c2e94ee12f975fc6bc131bae81f3e6db264443fe11225"
+    },
+    "ai-avatar-video": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/ai-avatar-video/SKILL.md",
+      "computedHash": "210a3b2d3034fec22b5c1dcb7f9e7356393dc279363a82ff0b50e3f56eae6a0a"
+    },
+    "ai-content-pipeline": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/content/ai-content-pipeline/SKILL.md",
+      "computedHash": "2c5b2d5e856cdede2f848228d3dfa9a7431a2153cf40457bf9f41421912bb935"
+    },
+    "ai-image-generation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/ai-image-generation/SKILL.md",
+      "computedHash": "2447f8f421d5fe5a5f7af5ebd6b819d349aedbd1cc0a4b776aabdf4a2c3b42d1"
+    },
+    "ai-marketing-videos": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/video/ai-marketing-videos/SKILL.md",
+      "computedHash": "c30119ad1cede2c36756d1f492c3b1c5bf90e986074827ff2b46b7f114f5475c"
+    },
+    "ai-music-generation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/ai-music-generation/SKILL.md",
+      "computedHash": "098a570e4ad90b799f19a526cd26fa120d2df081f2117f05650e2332289266e2"
+    },
+    "ai-podcast": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/content/ai-podcast/SKILL.md",
+      "computedHash": "c3baa850261a30a1bab4d19d1d904fd8f2b8d9362c7355ec524bc32dc75eb5ff"
+    },
+    "ai-podcast-creation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/content/ai-podcast-creation/SKILL.md",
+      "computedHash": "1cc082cba9896ef1266daa006cf38b6b6734ed4b1a25526934d4ec932553fdbe"
+    },
+    "ai-product-photography": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/photo/ai-product-photography/SKILL.md",
+      "computedHash": "4421dadac2287744624020e9d8412d0ae39b41188db5195b0b63c9dd6f6d8082"
+    },
+    "ai-rag-pipeline": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/llm/ai-rag-pipeline/SKILL.md",
+      "computedHash": "de406ce64230a508de55d96356fad7fe3793de92ffe402e6d4aed9be29cd40ff"
+    },
+    "ai-social-media-content": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/social/ai-social-media-content/SKILL.md",
+      "computedHash": "7bc4b252925de60346c69a4a2cd52d388c9f66c0c0619234b9af641acb446758"
+    },
+    "ai-video-generation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/ai-video-generation/SKILL.md",
+      "computedHash": "b56dc538acd6d2714f1413784ac302929a042ea3bab494c050b42405a10c86ac"
+    },
+    "ai-voice-cloning": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/ai-voice-cloning/SKILL.md",
+      "computedHash": "526da13fb68f77d78f5985c7ace733a4984a26a6bb5ee59275e2e547a2284d80"
+    },
+    "app-store-screenshots": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/app-store-screenshots/SKILL.md",
+      "computedHash": "4572b0f7c5f3c3029a019126f87837a057e9d37f32dab5146e09360546bd435c"
+    },
+    "background-removal": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/background-removal/SKILL.md",
+      "computedHash": "d55464e69eaeabacb4729440e2679d285b0c61e26c03f66644a26524feb4c5c7"
+    },
+    "book-cover-design": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/book-cover-design/SKILL.md",
+      "computedHash": "ada7d36bfd3bb0e7f5931a32f5a91f43d0772b7486ca41a6c1538a2bfb6e3e36"
+    },
+    "building-inferencesh-apps": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "sdk/building-apps/SKILL.md",
+      "computedHash": "d911adf9040956c563394cf3b193651e0630aa663668a8e8e47799ffd6d589db"
+    },
+    "case-study-writing": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/writing/case-study-writing/SKILL.md",
+      "computedHash": "88c429dbf117ca070573bee465846e592f6c972654cb304cb4b9e8457c404d64"
+    },
+    "character-design-sheet": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/character-design-sheet/SKILL.md",
+      "computedHash": "d0986a4efb742f6011be113bc37a37b652d7c2435f2e5202b755014482416683"
+    },
+    "chat-ui": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "ui/chat-ui/SKILL.md",
+      "computedHash": "f802eb86d4af91efc316b29ef2e628a75569b01bb6524cd4cd6a44f5687f3933"
+    },
+    "claude": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/llm/claude/SKILL.md",
+      "computedHash": "d8e338c244554302155959f231a3b53091a30fc2002855d3fec011af5027002b"
+    },
+    "competitor-teardown": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/product/competitor-teardown/SKILL.md",
+      "computedHash": "6aae9abdd233fdd0ff4680ad981c355d766cad53dd16af5c5e7b8bd07ad8cbf6"
+    },
+    "content-repurposing": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/content/content-repurposing/SKILL.md",
+      "computedHash": "90a2bb7f1f2b6011a1f3fcfdb17feab0bae3a9574e6746f2f160375a0f23896e"
+    },
+    "customer-persona": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/product/customer-persona/SKILL.md",
+      "computedHash": "780fd49ab5cf8b233e141c262cfa3bda63817196e084fa74c30fa894e7d2cc3c"
+    },
+    "data-visualization": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/data-visualization/SKILL.md",
+      "computedHash": "1f5122581be7fde874460ee0a5185fd01a07066e2df982163a1d91f21263fa64"
+    },
+    "dialogue-audio": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/dialogue-audio/SKILL.md",
+      "computedHash": "aaeaebfb9b1f69da2c8cc9f6a72c4c16ac2cab851bd8548c0aefa32f10e2c64d"
+    },
+    "elevenlabs-dialogue": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-dialogue/SKILL.md",
+      "computedHash": "5f8ca179e519d2f658cc101025229138678937bf311ef79e7f540e66e8a214db"
+    },
+    "elevenlabs-dubbing": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-dubbing/SKILL.md",
+      "computedHash": "8da8b6538dffd14419597b6ed6b0a33c6b67464333f3eb6d6424126ab01e279a"
+    },
+    "elevenlabs-music": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-music/SKILL.md",
+      "computedHash": "7f5cbd0a5f8bd9388822a10a9a7c4578cccad4861bfccf2c55a4ecaa8cd9f6ce"
+    },
+    "elevenlabs-sound-effects": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-sound-effects/SKILL.md",
+      "computedHash": "61cd4588b21eb586a6bfd0a995841230317ef4ae4a0ccaa263a4d23e3cb37ddb"
+    },
+    "elevenlabs-stt": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-stt/SKILL.md",
+      "computedHash": "dbf28418347be13816a3739041f1f6cb0950f95c55b5aa7cd922aa97344f9472"
+    },
+    "elevenlabs-tts": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-tts/SKILL.md",
+      "computedHash": "eae29f7135a8f74c41b7e3828b1b7fcfe92e6038180eb1055817e4843dce46aa"
+    },
+    "elevenlabs-voice-changer": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-voice-changer/SKILL.md",
+      "computedHash": "71daed4ce0dd91d5fde43b7cfc6b18a0a3ff973ba05b54cfa5d4d9b500c2bc22"
+    },
+    "elevenlabs-voice-isolator": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/elevenlabs-voice-isolator/SKILL.md",
+      "computedHash": "d84a19287deeb4975c6a3b8c5982b1a3f7a00c520c8c22b4b1578255cb3b5de6"
+    },
+    "email-design": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/email-design/SKILL.md",
+      "computedHash": "fdd26485075f6bd0326aa68b65c59daa0d8278731054ae1fa7ba9202cdb7dd91"
+    },
+    "explainer-video-guide": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/video/explainer-video-guide/SKILL.md",
+      "computedHash": "12c9c9f393e3757d0dba10e810d1352bcaebde5ed8bafc69fb183f97ee3fe9ba"
+    },
+    "flux-image": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/flux-image/SKILL.md",
+      "computedHash": "48250f53dbe48df64910fbc483ed86fdfde55fe6a366374f5e5f99573672a55b"
+    },
+    "gemini": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/llm/gemini/SKILL.md",
+      "computedHash": "1c3e0b52a0acb5d4a5d58b34ef32bf6bbdffe9372e151ee5c9f803831a2221f2"
+    },
+    "google-veo": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/google-veo/SKILL.md",
+      "computedHash": "85baffc9a5667a9cd651d7354c4ec1f4a36eeb1eba995d67bb931de4a9803ec1"
+    },
+    "gpt": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/llm/gpt/SKILL.md",
+      "computedHash": "40f9f1c694ca63249477fac1830df617a8588daa75c880d42cacb8cc12f83988"
+    },
+    "gpt-image": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/gpt-image/SKILL.md",
+      "computedHash": "57a895364342b05916f1df09aaf1350ef5c9fc0b0e66a2e248bace098310ce95"
+    },
+    "happyhorse": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/happyhorse/SKILL.md",
+      "computedHash": "67e3669e48b021aa889f6a4a51d74609adde492eb34605d67376fb685d42f366"
+    },
+    "heygen": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/heygen/SKILL.md",
+      "computedHash": "6163a1577c6017c122e687b20f4e798d1765ec319f5899a8c63c51efee8435b1"
+    },
+    "image-editing": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/image-editing/SKILL.md",
+      "computedHash": "ffb7021f340480729521f457527ce0504a041a10a2045066f07fcbde435c0909"
+    },
+    "image-to-video": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/image-to-video/SKILL.md",
+      "computedHash": "9711eb3964abe00cd1185e3f292cd17b343be987cbe9e1412b3f1a3b3b527649"
+    },
+    "image-upscaling": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/image-upscaling/SKILL.md",
+      "computedHash": "aabb52c61cbbf2e953886ee2ad784e70c32f2d9db8dd568356de814b537c3a80"
+    },
+    "infsh-cli": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/infsh-cli/SKILL.md",
+      "computedHash": "7cbd2292e1e75a058a1e847f7d0a981673e45cc6bc9eb1fbe6262eac8f924477"
+    },
+    "javascript-sdk": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "sdk/javascript-sdk/SKILL.md",
+      "computedHash": "a40fc352b96bcaa359ce4efb8119336d357e78b4e7007b65d2c4f0e969806b6a"
+    },
+    "kling": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/kling/SKILL.md",
+      "computedHash": "b605e2fd7fc28a0687814ccbf1b91ff3368d2225adbba38977e451e9cba1410d"
+    },
+    "landing-page-design": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/landing-page-design/SKILL.md",
+      "computedHash": "eb618aebcc80c8d5e675c75b4fbe22448d256c468e56380f2280a85e4876d84c"
+    },
+    "linkedin-content": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/social/linkedin-content/SKILL.md",
+      "computedHash": "0cfbbc2dcf5beeb1564e2133d93c25a207b1b4542b62361e0143b27ffdb2675e"
+    },
+    "llm-models": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/llm/llm-models/SKILL.md",
+      "computedHash": "d15f94a8f6c064eab59c24741d3a23926689695a906837ff68f19dd47a0b12af"
+    },
+    "logo-design-guide": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/logo-design-guide/SKILL.md",
+      "computedHash": "437fd2764cee50491cfeb2ad307deff0acaa2e2efbd38b014a1008a85cf38502"
+    },
+    "nano-banana": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/nano-banana/SKILL.md",
+      "computedHash": "63d062263618999865b91bd95b67abb8703e8f09518038b60bb0c8c02c743fff"
+    },
+    "nano-banana-2": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/nano-banana-2/SKILL.md",
+      "computedHash": "f8d3f09c59cf57e77f8167a1059baa9f2eae5ddde10acacd5d06fe47217309bf"
+    },
+    "newsletter-curation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/writing/newsletter-curation/SKILL.md",
+      "computedHash": "2c5d3a0f882d0b5b7521d7fa19a7c2600b5da2e82420bba9834674b9cf3212f9"
+    },
+    "og-image-design": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/og-image-design/SKILL.md",
+      "computedHash": "311b8f7baa557c75117e5d1236c65ca8503ffe08e0b62167a47159f051f68419"
+    },
+    "p-image": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/p-image/SKILL.md",
+      "computedHash": "68fcaeab16ba7a5783d11f85dd6c591bb2d4164f8f8eb319b4a99ea4ae013d2b"
+    },
+    "p-video": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/p-video/SKILL.md",
+      "computedHash": "05979d6a344f7a234705436761bade2bed02953b96ba46ea8b5aaceb0d2871e6"
+    },
+    "p-video-avatar": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/p-video-avatar/SKILL.md",
+      "computedHash": "fdbac47ba5328b8d51768a01b4a35555d23df38bc4575bf4481cec3c8b813e96"
+    },
+    "pitch-deck-visuals": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/pitch-deck-visuals/SKILL.md",
+      "computedHash": "7133b4acd603c7ea99d6a2531b544aa1e4b3b6fd2245d2f2b6e5e91d9a6fa1f8"
+    },
+    "pixverse": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/pixverse/SKILL.md",
+      "computedHash": "41708ebc8759db6496e2bf8548bb9335295f10f64aed74e3b25065d6760bca0d"
+    },
+    "press-release-writing": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/writing/press-release-writing/SKILL.md",
+      "computedHash": "f0c55496ec5fe6e9182cc0cb7c4be33ca2164fb3cbd9cb73fbf07d9627fb1918"
+    },
+    "product-changelog": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/product/product-changelog/SKILL.md",
+      "computedHash": "7898a208c95b9a9339e077097a0ee9f282acc82dda68580b71e20e5a1fac82bc"
+    },
+    "product-hunt-launch": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/product/product-hunt-launch/SKILL.md",
+      "computedHash": "b6640cad884b71032df718ec44c903cf5e03a5e55746ae2d66dcaa6b6c83ffd8"
+    },
+    "product-photography": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/photo/product-photography/SKILL.md",
+      "computedHash": "bc90d85d07b892ec94aa5c08f0e5d9402be5d65f109b2da3c356903c9b3c46c4"
+    },
+    "prompt-engineering": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/prompting/prompt-engineering/SKILL.md",
+      "computedHash": "15078ea571ad266af46c9da4902339b7f06a138a46b9cc2f4d25c7d323c92119"
+    },
+    "python-executor": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/utilities/python-executor/SKILL.md",
+      "computedHash": "83ea65ce7b0fe4384b2c1717a7cef07076924f4519538b189325f1951f37b889"
+    },
+    "python-sdk": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "sdk/python-sdk/SKILL.md",
+      "computedHash": "957b1fd77fc4a2cdee0600b2f274c020eceafa9bfc59488c3dae7f24c60f2619"
+    },
+    "qwen-image-2": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/qwen-image-2/SKILL.md",
+      "computedHash": "8202180a7fb88e915b7593dd7535b40b24b3c1a192157956c4d4e48bdfaadaf9"
+    },
+    "qwen-image-2-pro": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/image/qwen-image-2-pro/SKILL.md",
+      "computedHash": "2d42310b57499400856f2b1a2203b146e8ae87c72bf1389f5e1f0bc569a40845"
+    },
+    "related-skill": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/utilities/related-skill/SKILL.md",
+      "computedHash": "569b40325a3d031c2af16a5aedd025565911d068edda0a3b68d840de63a6aa2d"
+    },
+    "remotion-render": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/remotion-render/SKILL.md",
+      "computedHash": "5a2181165986b1cb5cf65f40592f69aae4fea3ac9ff9c7454e42ad6bea55bc01"
+    },
+    "runway": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/runway/SKILL.md",
+      "computedHash": "8db008cb4658f7c257f5495666be497bbc5ab24ed5dc931f14bb0b664feb3244"
+    },
+    "seedance": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/seedance/SKILL.md",
+      "computedHash": "fa87a08be440f5142bb7be8aac701f5f735632bc26703468ae992ce5d5524e6b"
+    },
+    "seo-content-brief": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/writing/seo-content-brief/SKILL.md",
+      "computedHash": "e839497623294731e9297d6fab3d84f15a9fb4a2228e6d4f5ddfa14771161f86"
+    },
+    "social-media-carousel": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/social/social-media-carousel/SKILL.md",
+      "computedHash": "a0a4cc0f251947f2b0af0d10d204481e410d4421dc4df70a6fdff30d46448fc3"
+    },
+    "speech-to-text": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/speech-to-text/SKILL.md",
+      "computedHash": "68bbc4c4fea28e6e1ecbada5c13fda9e44f12eff3c9c8b551600855ad6493cdc"
+    },
+    "storyboard-creation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/video/storyboard-creation/SKILL.md",
+      "computedHash": "18db5a8b6e90d34f835352cad97bfcf5c1ee5adeb1b058decd763fde6d5cbedf"
+    },
+    "talking-head-production": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/video/talking-head-production/SKILL.md",
+      "computedHash": "3f249d85988eb5cf86e600629ecd2b6cc0473a694041cea24de8044dd881d323"
+    },
+    "technical-blog-writing": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/writing/technical-blog-writing/SKILL.md",
+      "computedHash": "99195bc75d20064da820f7b79ac050b7756fababf826f6713e9ec1f8ed8d4f36"
+    },
+    "text-to-speech": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/audio/text-to-speech/SKILL.md",
+      "computedHash": "df33772b88d9d8a3a763b2eda09face2bda4c8d784824adfc3052f76723af246"
+    },
+    "tools-ui": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "ui/tools-ui/SKILL.md",
+      "computedHash": "42af62d3cceff73b10d62c366679a1062c12bc22374970f8b6615fc62cf22c44"
+    },
+    "twitter-automation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/social/twitter-automation/SKILL.md",
+      "computedHash": "3d4c9dee9ede07c7baf5bfb27c93655771f8c0f6825dc381cd08bc445378401c"
+    },
+    "twitter-thread-creation": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/social/twitter-thread-creation/SKILL.md",
+      "computedHash": "3ff58d96fa7d53c99f4c7f1dbcd8459e51c39369444dab207c45498f361caaa8"
+    },
+    "video-ad-specs": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/video/video-ad-specs/SKILL.md",
+      "computedHash": "06c6bba10dda62e5c5bf08ec9cc311a3aafc5d3cf478b46ee378539fdd4b9d0c"
+    },
+    "video-enhancement": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/video/video-enhancement/SKILL.md",
+      "computedHash": "45fcfbc3ea60d2e52ec36b19e036192c43730cb4ad4ebecbaa4291e660d2c661"
+    },
+    "video-prompting-guide": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/prompting/video-prompting-guide/SKILL.md",
+      "computedHash": "b12b97589d8f7ff1bea8da8098d423aa5a875f498c9451c18437d7473a3e496f"
+    },
+    "web-search": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "tools/llm/web-search/SKILL.md",
+      "computedHash": "f055bf2f00177494716196261f605059303f72b36045f63089ab6bc9857c98c0"
+    },
+    "widgets-ui": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "ui/widgets-ui/SKILL.md",
+      "computedHash": "27e534051a74eaa5f65b313a061adabcca048b62ecd3595f48a1a95ac235953d"
+    },
+    "youtube-thumbnail-design": {
+      "source": "rajabovjakhongir7-stack/skills",
+      "commit": "13ccb5ea05deaa3ff9c8ba5c78d1e37756cc14b5",
+      "sourceType": "github",
+      "skillPath": "guides/design/youtube-thumbnail-design/SKILL.md",
+      "computedHash": "87e3e67fa65f9909468fee93c483cf2f7679dc281ec90201719f79e62f03b617"
+    }
+  }
+}
