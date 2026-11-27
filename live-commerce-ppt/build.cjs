@@ -86,6 +86,16 @@ async function icon(Comp, color, size = 256) {
   T(s, "Taqdimot · 2026", { x: 0.6, y: 4.75, w: 4, h: 0.3, fontSize: 12, color: C.accent5, objectName: "Sana" });
   s.addNotes("Assalomu alaykum! Bugun elektron tijoratning eng qiziqarli va tez o'sayotgan yo'nalishlaridan biri — Live Commerce, ya'ni jonli efir orqali savdo haqida gaplashamiz. Ko'pchiligingiz Instagram yoki TikTok'da kimdir efirda mahsulot ko'rsatib sotayotganini ko'rgansiz — aynan shu hodisa bugun milliardlab dollarlik bozorga aylangan.");
 
+  // ---------- 1b. Intro video (Higgsfield) ----------
+  s = pres.addSlide({ masterName: "TITLE_DARK", sectionTitle: "Kirish" });
+  const fs = require("fs");
+  s.addMedia({
+    type: "video", path: A("intro.mp4"),
+    cover: "data:image/png;base64," + fs.readFileSync(A("intro_poster.png")).toString("base64"),
+    x: 0, y: 0, w: 10, h: 5.625, objectName: "Kirish videosi",
+  });
+  s.addNotes("Kirish videosi (30 soniya, Higgsfield'da yaratilgan). Slayd ochilganda avtomatik boshlanadi. Video savdoning evolyutsiyasini ko'rsatadi: 1980-yillardagi televizor teleshopi → smartfondagi jonli efir → mahsulot ekrandan chiqib xaridor qo'liga tushadi → kelajakdagi AI efirlar shahri. Video tugagach savol bering: 'Siz oxirgi marta jonli efirdan biror narsa sotib olganmisiz?'");
+
   // ---------- 2. Agenda ----------
   s = pres.addSlide({ masterName: "CONTENT_LIGHT", sectionTitle: "Kirish" });
   s.addText("Bugungi reja", { placeholder: "title" });
@@ -305,5 +315,6 @@ async function icon(Comp, color, size = 256) {
 
   await pres.writeFile({ fileName: OUT });
   await applyTheme(OUT, THEME);
+  require("child_process").execFileSync("python3", [path.join(__dirname, "autoplay.py"), OUT, "slide2.xml", "Kirish videosi", "30160"], { stdio: "inherit" });
   console.log("Wrote", OUT);
 })().catch((e) => { console.error(e); process.exit(1); });
